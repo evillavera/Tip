@@ -34,10 +34,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I wasn't sure how to make the decimal keyboard appear upon loading the app.
+- I had a vision for how my app should look, however I was unable to recreate it successfully. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Erik Villavera]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
